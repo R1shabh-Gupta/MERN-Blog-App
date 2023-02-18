@@ -15,3 +15,5 @@ node index.js
 ```bash
 yarn run start
 ```
+## References
+I used YouTube tutorial for making this project. This is my first full MERN project. 
